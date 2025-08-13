@@ -1,8 +1,5 @@
 # Implementing-a-Secure-Firmware-Update-Mechanism-for-IoT-Devices
 
-
-# Implementing a Secure Firmware Update Mechanism for IoT Devices
-
 ## 📌 Overview
 This project demonstrates a **secure firmware update mechanism** for IoT devices using the **Zephyr Project OS**.  
 The goal is to ensure firmware integrity, authenticity, and confidentiality by integrating:
